@@ -36,3 +36,9 @@ Now, for the web interface, I used PyCharm as a working environment. To run the 
            |__ app.py
 
 Before running the "app.py" file, install the pre-requisite libraries (requirements.txt)
+
+## Build with 
+
+ - Python 
+ - Flask -- The web framework used
+
